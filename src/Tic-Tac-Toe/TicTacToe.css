@@ -1,0 +1,37 @@
+table td {
+    border: 5px solid white;
+    width: 100px;
+    height: 100px;
+    
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 1300px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  html{
+    background-color: thistle;
+  }
+
+  table{
+    margin-top: 30px;
+    background-color: grey;
+    border: 5px solid white;
+  }
+
+  h3{
+    background-color: green;
+  }
+
+  h2{
+    align-items: center;
+    color: white;
+  }
+
+  tbody{
+    color: white;
+    font-size: 2cm;
+  }
